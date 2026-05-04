@@ -14,4 +14,4 @@ The notebook handles data downloading, shadow model training (~7 hours), LiRA sc
 
 ## Results
 - Baseline TPR@5%FPR: ~0.05 (random)
-- LiRA with 64 shadow models: 0.054
+- LiRA with 64 shadow models: 0.056
